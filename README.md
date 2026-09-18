@@ -125,4 +125,4 @@ seguridad de sistemas, redes, análisis de vulnerabilidades e informática foren
 
 ---
 
-⭐ *Siempre aprendiendo y explorando nuevas tecnologías.*
+⭐ *Siempre aprendiendo  y  explorando nuevas tecnologías.*
